@@ -6,10 +6,7 @@ $db = "penjualan_kue";
 $conn = mysqli_connect($host, $user, $pass, $db);
 if ($conn == false)
 {
-echo "Koneksi ke server gagal.";
-die();
-} #else echo "Koneksi berhasil";
-?>
+
 
 
 <!DOCTYPE html>
@@ -127,6 +124,9 @@ die();
 </head>
 <body>
     <h1>pendaftaran<h1>
+        <div class="logo">
+            <img src="images/kuelogo.png" alt="Logo" width="100">
+        </div>
 <form action="#" method="post" onsubmit="return redirectToLogin()">
             <label for="nama_depan">Nama Depan:</label>
             <input type="text" id="nama_depan" name="nama_depan" required>

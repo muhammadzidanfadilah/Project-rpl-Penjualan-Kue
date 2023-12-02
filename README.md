@@ -3,7 +3,8 @@
 
 # MENU UTAMA
 
-![ana](https://github.com/muhammadzidanfadilah/Project-rpl-Penjualan-Kue/assets/115553474/bb905b0e-5810-4229-9971-d2bbddb66e27)
+![ana](https://github.com/muhammadzidanfadilah/Project-rpl-Penjualan-Kue/assets/115553474/323d915e-4262-41c0-9e5d-321f86571bd9)
+
 
 
 

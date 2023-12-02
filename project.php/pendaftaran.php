@@ -137,9 +137,9 @@ if ($conn == false)
             <label for="email">Email:</label>
             <input type="email" id="email" name="email" required>
 
-            <label for="kata_sandi">Kata Sandi:</label>
-            <input type="password" id="kata_sandi" name="kata_sandi" required>
-
+            <label for="Password">Password:</label>
+            <input type="password" id="Password" name="password" required>
+                
             <label for="alamat">Alamat:</label>
             <input type="text" id="alamat" name="alamat" required>
 

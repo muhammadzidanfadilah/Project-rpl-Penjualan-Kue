@@ -130,10 +130,7 @@ $conn = mysqli_connect($host, $user, $pass, $db);
 
             <label for="nama_belakang">Nama Belakang:</label>
             <input type="text" id="nama_belakang" name="nama_belakang" required>
-
-            <label for="email">Email:</label>
-            <input type="email" id="email" name="email" required>
-
+        
             <label for="kata_sandi">Kata Sandi:</label>
             <input type="password" id="kata_sandi" name="kata_sandi" required>
 

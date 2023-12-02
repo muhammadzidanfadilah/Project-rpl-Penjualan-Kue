@@ -124,14 +124,11 @@ $conn = mysqli_connect($host, $user, $pass, $db);
     <h1>login<h1>
     <form action="process_login.php" method="POST">
     <form action="#" method="post" onsubmit="return redirectToLogin()">
-            <label for="nama_depan">Nama Depan:</label>
-            <input type="text" id="nama_depan" name="nama_depan" required>
+           <label for="Email">email:</label>
+            <input type="text" id="email" name="email" required>
 
-            <label for="nama_belakang">Nama Belakang:</label>
-            <input type="text" id="nama_belakang" name="nama_belakang" required>
-        
-            <label for="kata_sandi">Kata Sandi:</label>
-            <input type="password" id="kata_sandi" name="kata_sandi" required>
+            <label for="password">password:</label>
+            <input type="Password" id="email" name="email" required>
 
             <button type="submit">login</button>
     </form>

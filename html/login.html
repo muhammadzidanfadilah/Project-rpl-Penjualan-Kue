@@ -1,0 +1,110 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <style>
+        body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    text-align: center;
+}
+
+.container {
+    width: 50%;
+    margin: auto;
+    background: #fff;
+    padding: 20px;
+    margin-top: 50px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    text-align: center;
+    color: #3120ce;
+}
+p {
+            color: #15e037;
+            font-size: 18px;
+        }
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+label {
+    margin-top: 10px;
+}
+
+input {
+    padding: 10px;
+    margin: 5px 0 20px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+button {
+    background-color: #4caf50;
+    color: white;
+    padding: 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h2>Login</h2>
+
+        <form action="proses_login.php" method="post" onsubmit="return redirectToCatalog()">
+            <label for="nama_depan">Nama Depan:</label>
+            <input type="text" id="nama_depan" name="nama_depan" required>
+
+            <label for="nama_belakang">Nama Belakang:</label>
+            <input type="text" id="nama_belakang" name="nama_belakang" required>
+
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required>
+
+            <label for="kata_sandi">Kata Sandi:</label>
+            <input type="password" id="kata_sandi" name="kata_sandi" required>
+
+            <button type="submit">login</button>
+            <button type="submit">Login</button>
+        </form>
+    </div>
+
+    <script>
+        function redirectToCatalog() {
+            // Penerimaan data dari formulir login
+            var email = document.getElementById('email').value;
+            var kata_sandi = document.getElementById('kata_sandi').value;
+
+            // Proses verifikasi login (di sini Anda harus memeriksa dengan basis data atau sumber autentikasi lainnya)
+            var login_berhasil = true; // Gantilah ini dengan logika sesuai kebutuhan
+
+            if (login_berhasil) {
+                // Jika login berhasil, arahkan pengguna ke halaman katalog_kue.html
+                window.location.href = 'katalog_kue.html';
+                return false; // Agar formulir tidak dikirim secara default
+            } else {
+                // Jika login gagal, mungkin Anda ingin menampilkan pesan kesalahan atau melakukan tindakan lain
+                alert('Login gagal. Silakan coba lagi.');
+                return false; // Agar formulir tidak dikirim secara default
+            }
+        }
+    </script>
+</body>
+</html>

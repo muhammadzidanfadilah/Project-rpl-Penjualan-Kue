@@ -4,7 +4,6 @@ $user = "root";
 $pass = "";
 $db = "penjualan_kue";
 $conn = mysqli_connect($host, $user, $pass, $db);
-
 ?>
 
 <!DOCTYPE html>

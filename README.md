@@ -103,8 +103,9 @@
 # Menu laporan
 
 ## Laporan penjualan
+![Screenshot (459)](https://github.com/muhammadzidanfadilah/Project-rpl-Penjualan-Kue/assets/115553474/b8803741-fc67-4dde-9821-020b2ef7ece7)
 
-![Screenshot (433)](https://github.com/muhammadzidanfadilah/Project-rpl-Penjualan-Kue/assets/115553474/86ddd215-9abf-4221-a576-c929badca2ed)
+
 
 ## Laporan profit
 ![Screenshot (434)](https://github.com/muhammadzidanfadilah/Project-rpl-Penjualan-Kue/assets/115553474/052e7579-e8d9-4796-83aa-9c179358836e)

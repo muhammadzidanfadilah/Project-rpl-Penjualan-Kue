@@ -21,6 +21,9 @@
 # Menu home
 ![Screenshot (425)](https://github.com/muhammadzidanfadilah/Project-rpl-Penjualan-Kue/assets/115553474/5d40959e-9fc2-4ef5-8a26-a87021aee8d3)
 
+![Screenshot (458)](https://github.com/muhammadzidanfadilah/Project-rpl-Penjualan-Kue/assets/115553474/111c3cce-5dd3-43ee-b1d3-fbb91e0a847e)
+
+
 ![Screenshot (426)](https://github.com/muhammadzidanfadilah/Project-rpl-Penjualan-Kue/assets/115553474/9bb824a4-4464-46d4-9742-1719a3ff3de4)
 
 ![Screenshot (427)](https://github.com/muhammadzidanfadilah/Project-rpl-Penjualan-Kue/assets/115553474/0622c31f-919d-4caa-9127-99e877e9abd6)

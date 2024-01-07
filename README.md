@@ -8,11 +8,11 @@ Rekayasa Perangkat Lunak
 
 ```
 
-
-
 # Use case 
 
-![UseCaseDiagramimni](https://github.com/muhammadzidanfadilah/Project-rpl-Penjualan-Kue/assets/115553474/389c7244-ccfb-42d1-ba96-ae3cc04e6aa6)
+![UseCaseDiagram1](https://github.com/muhammadzidanfadilah/Project-rpl-Penjualan-Kue/assets/115553474/7c20d6c6-6560-4ff8-be93-49d4eec1ac35)
+
+
 
 
 # Melakukan pendaftaran

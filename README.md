@@ -43,8 +43,14 @@ Rekayasa Perangkat Lunak
 # Menu produk
 ![Screenshot (428)](https://github.com/muhammadzidanfadilah/Project-rpl-Penjualan-Kue/assets/115553474/562dc53f-5d75-4a9d-b484-1a865db9eaf1)
 
+![Screenshot (489)](https://github.com/muhammadzidanfadilah/Project-rpl-Penjualan-Kue/assets/115553474/e2387968-4387-4ba8-a27e-dce4d2cee4ec)
+
+![Screenshot (490)](https://github.com/muhammadzidanfadilah/Project-rpl-Penjualan-Kue/assets/115553474/7839da5d-af38-4fe6-8309-d5c9981ad2c2)
+
+
 # Menu Tentang kami
 ![Screenshot (429)](https://github.com/muhammadzidanfadilah/Project-rpl-Penjualan-Kue/assets/115553474/1d496b49-881f-4c06-9166-793cfc78e649)
+
 
 
 
